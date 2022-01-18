@@ -1,5 +1,6 @@
 package io.laaf.security.repository;
 
+
 import io.laaf.security.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
